@@ -10,3 +10,20 @@
     width: 80%;
     margin: 2rem auto;
 }
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footerLayout {
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    padding-top: 1rem;
+}
+
+.flex img {
+    width: 40px;
+}
